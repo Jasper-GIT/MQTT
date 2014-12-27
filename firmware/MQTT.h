@@ -127,4 +127,3 @@ public:
     bool loop();
     bool connected();
 };
-#ENDIF
