@@ -49,9 +49,6 @@ sample code bearing this copyright.
 //---------------------------------------------------------------------------
 */
 
-#ifndef MQTT_h
-#define MQTT_h
-
 #pragma GCC diagnostic ignored "-Wwrite-strings"
 
 // #include "PubSubClient.h"
