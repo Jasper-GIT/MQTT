@@ -1,7 +1,7 @@
 // This #include statement was automatically added by the Spark IDE.
 
-#include "mqtt.h"
-#include <string.h>
+#include "MQTT.h"
+#define LOGGING
 
 PubSubClient::PubSubClient() {
     this->_client = NULL;
